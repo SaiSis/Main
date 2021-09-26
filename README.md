@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @SaiSis
-- 👀 I’m interested in Web  and app design
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web  and app design.
 
 <!---
 SaiSis/SaiSis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
